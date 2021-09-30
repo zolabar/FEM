@@ -1,4 +1,5 @@
-sympy
-plotly
 numpy
 jupyter
+matplotlib
+seaborn
+scipy
