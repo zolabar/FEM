@@ -3,3 +3,4 @@ jupyter
 matplotlib
 seaborn
 scipy
+sympy
