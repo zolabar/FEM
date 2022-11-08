@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zolabar/FEM/HEAD)
 
 # FEM: Finite Element Method 
-## can be applied in many disciplines, not only solid mechanics :)
+## not only for solid mechanics :)
 
 FEM 1D example with Python created by Zoufiné Lauer-Baré
 
