@@ -1,5 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zolabar/FEM/HEAD)
-# FEM
+
+# FEM: Finite Element Method 
+## can be applied in many disciplines, not only solid mechanics :)
+
 FEM 1D example with Python created by Zoufiné Lauer-Baré
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zolabar)
