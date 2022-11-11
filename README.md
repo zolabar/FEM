@@ -15,6 +15,8 @@ FEM 1D example with Python created by Zoufiné Lauer-Baré
 
 <img src=FIGURES/diskretisierung.PNG height='200'>
 
+![messhing](/FEM/assets/diskretisierung.PNG)
+
 ### Assemble system: Shape Functions
 
 <img src=FIGURES/formfunktionen.PNG height='200'>
