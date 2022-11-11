@@ -42,7 +42,7 @@ or install Python, Jupyter etc... and download or clone this repository.
 
 ![fem vs fvm](/FEM/assets/fem_vs_fvm.PNG)
 
-**-> FEM exact on nodes and FVM exact at gradients bewteen nodes**
+**-> FEM exact on nodes and FVM exact at gradients between nodes**
 
 ### Visualization of analytical plate deformation in 3D!
 
