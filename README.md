@@ -21,9 +21,13 @@ FEM 1D example with Python created by Zoufiné Lauer-Baré
 
 <img src=FIGURES/formfunktionen.PNG height='200'>
 
+![shape functions](/FEM/assets/formfunktionen.PNG)
+
 ### Solution: Numerical FEM approximation exact at the nodes!
 
 <img src=FIGURES/verschiebung.PNG height='200'>
+
+![solution](/FEM/assets/verschiebung.PNG)
 
 ### Usage
 
@@ -36,10 +40,14 @@ or install Python, Jupyter etc... and download or clone this repository.
 
 <img src=FIGURES/fem_vs_fvm.PNG height='500'>
 
+![fem vs fvm](/FEM/assets/fem_vs_fvm.PNG)
+
 **-> FEM exact on nodes and FVM exact at gradients bewteen nodes**
 
 ### Visualization of analytical plate deformation in 3D!
 
 <img src=FIGURES/plate_analytical_uz_scaled.PNG height='500'>
+
+![fem vs fvm](/FEM/assets/plate_analytical_uz_scaled.PNG)
 
 
