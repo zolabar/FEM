@@ -11,11 +11,11 @@ FEM 1D example with Python created by Zoufiné Lauer-Baré
 
 5 Node example for 1D PDE with constant right hand side and prescribed Dirichlet boundary conditions. Example could be a rod displacement or plane gap flow.
 
-### Discretization: Nodes and Elements
+### Meshing: Nodes and Elements
 
 <img src=FIGURES/diskretisierung.PNG height='200'>
 
-### Discretization: Shape Functions
+### Assemble system: Shape Functions
 
 <img src=FIGURES/formfunktionen.PNG height='200'>
 
