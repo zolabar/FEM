@@ -19,7 +19,7 @@ FEM 1D example with Python created by Zoufiné Lauer-Baré
 
 <img src=FIGURES/formfunktionen.PNG height='200'>
 
-### Solution: Numerical FEM solution exact at the nodes!
+### Solution: Numerical FEM approximation exact at the nodes!
 
 <img src=FIGURES/verschiebung.PNG height='200'>
 
